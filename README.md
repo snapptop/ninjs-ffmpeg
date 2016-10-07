@@ -1,0 +1,2 @@
+# ninjs-ffmpeg
+FFMPEG wrapper
